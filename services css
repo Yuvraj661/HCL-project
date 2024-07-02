@@ -1,0 +1,27 @@
+.nav-text ul li a{
+    color: white;
+}
+body{
+    overflow-x: hidden;
+    background-image:   linear-gradient(rgba(0,0,0,0.3),#000), url(https://media.licdn.com/dms/image/D4E12AQEOrKBhh1B5kw/article-cover_image-shrink_720_1280/0/1687633673860?e=2147483647&v=beta&t=xmkVkabfWFeZBP6KQ2LnVdf0I8ZKIXWTsx3qbtemPtI);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+   opacity: 0.9;
+    position: relative;
+   
+   
+}
+.head-text h1, p{
+color: white;
+}
+.logo img{
+    margin-bottom: 14px;
+}
+.head-text{
+    margin: 14px;
+    font-size: 22px;
+    text-align: center;
+}
