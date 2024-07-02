@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="banner">
+        
+        <div class="logo">
+            <img src="https://static.javatpoint.com/blog/images/use-case-model-3.png" alt="">
+            <div class="nav-text" id="sidenav">
+                <ul><li><a href="index.html">Home</a> </li></ul>
+                <ul><li><a href="ind.html">Services</a></li></ul>
+                <ul><li><a href="help.html">Help</a></li></ul>
+                
+                <ul><li><a href="contact.html">Contact</a></li></ul>
+           
+            </div>
+            
+        </div>
+
+        <div class="banner-text">
+            <h1>Create Your UML Diagram </h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae consectetur sed expedita a tenetur quasi suscipit sit perspiciatis optio tempore?lorem10</p>
+            <span class="btn"><a href="ind.html">Generate Diagram</a></span>
+
+        </div>
+    </section>
+    
+    <section id="Facilities">
+        <div class="head-text">
+            <h1>Types of Uml diagrams</h1>
+            <p>Lorem ipseum dolor sit amet consectetur adipisicing earum.</p>
+        </div>
+        <div class="row-img">
+            <div class="col-1">
+                <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/what-is-a-use-case-diagram-in-UML/UML_use_case_example1-750x731.png" alt="">
+                <h3>Use case</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus minus veritatis. Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-1">
+                <img src="https://static.javatpoint.com/tutorial/uml/images/uml-class-diagram9.png" alt="">
+                <h3>Class diagram</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus minus veritatis. Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-1">
+                <img src="https://www.researchgate.net/publication/228402797/figure/fig1/AS:302034835263488@1449022124288/Example-of-a-Sequence-Diagram.png" alt="">
+                <h3>Sequence Diagram</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus minus veritatis. Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+           
+        </div>
+        <div class="row-img row-img2">
+            <div class="col-1">
+                <img src="https://www.tutorialspoint.com/uml/images/uml_sequence_diagram.jpg" alt="">
+                <h3>Interaction diagram</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus minus veritatis. Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-1">
+                <img src="https://t2informatik.de/en/wp-content/uploads/sites/2/2021/10/activity-diagram-t2informatik.jpg" alt="">
+                <h3>Activity diagram</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus minus veritatis. Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+            <div class="col-1">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Object_diagram.png" alt="">
+                <h3>Object Diagram</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur repellendus minus veritatis. Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+           
+        </div>
+    </section>
+   
+  
+</body>
+</html>
