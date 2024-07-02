@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+    <link rel="stylesheet" href="ind.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="logo">
+        <img src="https://static.javatpoint.com/blog/images/use-case-model-3.png" alt="">
+        <div class="nav-text">
+            <ul><li><a href="index.html">Home</a> </li></ul>
+            <ul><li><a href="ind.html">Services</a></li></ul>
+            <ul><li><a href="help.html">Help</a></li></ul>
+           
+            <ul><li><a href="contact.html">Contact</a></li></ul>
+       
+        </div>
+        
+    </div>
+    <section id="courses">
+        <div class="head-text">
+            <h1>UML diagram</h1>
+            <p>Write the code in the console for generating the diagram.</p>
+            
+        </div>
+        <div class="boxes">
+            <iframe  src="https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000" width="100%" height="500px"></iframe>
+
+        </div>
+    </section>
+</body>
+</html>
